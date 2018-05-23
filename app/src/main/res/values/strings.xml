@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TP2Room</string>
+    <string name="title_add">Add</string>
+    <string name="title_list">Places</string>
+    <string name="title_map">Map</string>
+
+    <!-- Add place fragment layout -->
+    <string name="hint_name">Place Name</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_latitude">Latitude</string>
+    <string name="hint_longitude">Longitude</string>
+    <string name="insert">Insert</string>
+
+    <!-- Item place layout -->
+    <string name="phone_lbl">Phone :</string>
+    <string name="description_lbl">Description :</string>
+
+    <!-- Errors -->
+    <string name="field_error_empty">Please fill the text area before submit</string>
+    <string name="field_error_float">The value of the text area must be a float</string>
+
+    <!-- Buttons -->
+    <string name="delete">Delete</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Messages -->
+    <string name="delete_msg">Place deleted</string>
+    <string name="add_msg">Place added</string>
+
+</resources>
